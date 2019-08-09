@@ -1,0 +1,15 @@
+#excutable
+*.exe
+*.dll
+
+#compiler
+*.o
+*.d
+*.o.d
+
+
+
+#others
+*.txt
+*.mk
+Makefile
